@@ -1,4 +1,4 @@
-<!--php echo문 출력시 한글 깨지는 것 해결을 위한 html 코드 : db 한글깨짐 해결 못함-->
+<!--php echo문 출력시 한글 깨지는 것 해결을 위한 html 코드-->
 <html>
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
